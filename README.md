@@ -4,6 +4,8 @@ Herein we introduce SCITRAM, a computational solution able to (i) process multip
 #
 All the aforementioned steps are possible within an intuitive user-friendly environment, making of SCITRAM a unique platform providing a large number of data processing options. Furthermore, SCITRAM distribution is meant to avoid tedious tools/dependencies installations, relying in a direct executable distribution format for both windows and Mac, in addition to the regular Linux distribution.
 #
+Download SCITRAM doing click at the right panel: Releases
+#
 For more information and reference consulto our publication:
 
 SCITRAM: Single-cell Integrated transcription regulation modeler
