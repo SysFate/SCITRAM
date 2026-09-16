@@ -3,3 +3,10 @@
 Herein we introduce SCITRAM, a computational solution able to (i) process multiple single-cell transcriptomics files at once, (ii) perform dimensionality reduction while retaining the origin of cells retrieved on the obtained clusters, (iii) compute differential gene expression profiling among stratified clusters; (iv) annotate clusters based on the use of user-provided cell-type gene association information; (v) reconstitute gene regulatory networks per cluster by using transcription factors-target gene relationships; and (vi) classify transcription factors as master drivers defining cluster differences retrieved within single-cell transcriptomics readouts.
 #
 All the aforementioned steps are possible within an intuitive user-friendly environment, making of SCITRAM a unique platform providing a large number of data processing options. Furthermore, SCITRAM distribution is meant to avoid tedious tools/dependencies installations, relying in a direct executable distribution format for both windows and Mac, in addition to the regular Linux distribution.
+#
+For more information and reference consulto our publication:
+
+SCITRAM: Single-cell Integrated transcription regulation modeler
+Ariel Galindo-Albarran ,Maximilien Duvina , Paula Barbao , Alba Rodrigue-Garcia , 
+Sonia Guedan , Luca Gattinoni , Marco Antonio Mendoza-Parra
+
