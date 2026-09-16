@@ -10,5 +10,5 @@ For more information and reference consulto our publication:
 
 SCITRAM: Single-cell Integrated transcription regulation modeler
 Ariel Galindo-Albarran ,Maximilien Duvina , Paula Barbao , Alba Rodrigue-Garcia , 
-Sonia Guedan , Luca Gattinoni , Marco Antonio Mendoza-Parra
+Sonia Guedan, Christoph Heuser, Luca Gattinoni , Marco Antonio Mendoza-Parra
 
