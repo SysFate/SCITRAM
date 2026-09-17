@@ -6,7 +6,7 @@ All the aforementioned steps are possible within an intuitive user-friendly envi
 #
 Download SCITRAM doing click at the right panel: Releases
 #
-For more information and reference consulto our publication:
+For more information and reference consult our publication:
 
 SCITRAM: Single-cell Integrated transcription regulation modeler
 Ariel Galindo-Albarran ,Maximilien Duvina , Paula Barbao , Alba Rodrigue-Garcia , 
